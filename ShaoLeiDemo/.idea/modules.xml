@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestShaoDemo/TestShaoDemo.iml" filepath="$PROJECT_DIR$/TestShaoDemo/TestShaoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IEDA for java/SaoLeiDemo/saolei.iml" filepath="$PROJECT_DIR$/../IEDA for java/SaoLeiDemo/saolei.iml" />
+    </modules>
+  </component>
+</project>
